@@ -16,10 +16,6 @@
 Загрузите  [IMDB Dataset.csv](https://drive.google.com/file/d/1BU5CPG4ksZ9-oO514GIECU5QKUUMkPjX/view?usp=drive_link) в Google Colab.  
 <img width="194" alt="image" src="https://github.com/adelyaahmadullina/neuron_network/assets/120652605/5c7fbe61-d1c4-41a6-ba8e-b2a47e18436b">
 
-
-Или в Kaggle:  
-![image](https://github.com/kurrosan/DataAnalysis/assets/120035199/5346a717-48c4-4725-8b34-bce180cf0d7f)
-
 После этого запустите код 
 После выполнения всего кода, у нас появится файл с названием submition.csv
 ![image](https://github.com/kurrosan/DataAnalysis/assets/120035199/81125b73-6254-4bcc-994a-57c5f900b21e)
