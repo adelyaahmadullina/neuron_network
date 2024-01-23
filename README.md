@@ -9,12 +9,13 @@
 [Результат работы кода](#title4)
 
 ## <a id="title1">Данные, нужные для запуска кода</a>
-Лабораторная_Технологии_Интел_Анализа_Данных.ipynb - основная программа   
-Датасет [creditcard.csv](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
+Нейр_сети_Ахмадуллина.ipynb - основная программа   
+Датасет [IMDB Dataset.csv](https://drive.google.com/file/d/1BU5CPG4ksZ9-oO514GIECU5QKUUMkPjX/view?usp=drive_link)
 
 ## <a id="title2">Запуск кода</a>
-Загрузите  [creditcard.csv](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data) в Google Colab  
-![image](https://github.com/kurrosan/DataAnalysis/assets/120035199/bfe02eae-9b3b-4a03-ae5b-15d19a817bdf)
+Загрузите  [IMDB Dataset.csv](https://drive.google.com/file/d/1BU5CPG4ksZ9-oO514GIECU5QKUUMkPjX/view?usp=drive_link) в Google Colab.  
+<img width="194" alt="image" src="https://github.com/adelyaahmadullina/neuron_network/assets/120652605/5c7fbe61-d1c4-41a6-ba8e-b2a47e18436b">
+
 
 Или в Kaggle:  
 ![image](https://github.com/kurrosan/DataAnalysis/assets/120035199/5346a717-48c4-4725-8b34-bce180cf0d7f)
